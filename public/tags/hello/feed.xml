@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Next.js Personal Blog</title>
+      <link>https://ms-mstanka-next.vercel.app/blog</link>
+      <description>A blog created with Next.js and Tailwind.css</description>
+      <language>en-us</language>
+      <managingEditor>email@email.com (Marketa Stankova)</managingEditor>
+      <webMaster>email@email.com (Marketa Stankova)</webMaster>
+      <lastBuildDate>Mon, 03 Jul 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://ms-mstanka-next.vercel.app/tags/hello/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://ms-mstanka-next.vercel.app/blog/sample-post-two</guid>
+    <title>Sample post two</title>
+    <link>https://ms-mstanka-next.vercel.app/blog/sample-post-two</link>
+    null
+    <pubDate>Mon, 03 Jul 2023 00:00:00 GMT</pubDate>
+    <author>email@email.com (Marketa Stankova)</author>
+    <category>hello</category>
+  </item>
+
+  <item>
+    <guid>https://ms-mstanka-next.vercel.app/blog/sample-post</guid>
+    <title>Sample post</title>
+    <link>https://ms-mstanka-next.vercel.app/blog/sample-post</link>
+    null
+    <pubDate>Sun, 02 Jul 2023 00:00:00 GMT</pubDate>
+    <author>email@email.com (Marketa Stankova)</author>
+    <category>hello</category>
+  </item>
+
+    </channel>
+  </rss>
